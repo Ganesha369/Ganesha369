@@ -1,4 +1,6 @@
-## Hi there 👋
+### 🚀 Project Gallery
+| Date | Project | What it explores |
+| :--- | :--- | :--- |## Hi there 👋
 
 <!--
 **Ganesha369/Ganesha369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
