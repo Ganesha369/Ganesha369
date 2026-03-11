@@ -16,7 +16,7 @@
 | Project | Description | Status | Live Link |
 | :--- | :--- | :--- | :--- |
 | [AI Academy](./AI_Lab) | 30-Day LLM & Agent Roadmap | ![Active](https://img.shields.io/badge/Daily--Build-Passing-success) | [🚀 Open Lab](https://ganesha-ai-lab.streamlit.app/) |
-| [Python_DSA](./Python_DSA_Lab) | SDE-2 Mentorship for Data Structures | ![Active](https://img.shields.io/badge/Daily--Build-Passing-success) | [🐍 Open Lab](https://ganesha-dsa-lab.streamlit.app/) |
+| [Python_DSA](https://github.com/Ganesha369/AI_Lab) | SDE-2 Mentorship for Data Structures | ![Active](https://img.shields.io/badge/Daily--Build-Passing-success) | [🐍 Open Lab](https://ganesha-dsa-lab.streamlit.app/) |
 
 ---
 
