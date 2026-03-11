@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ganesha-a-m-68698122a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ganesha.am.369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Ganesha369&label=PROFILE%20VIEWS&color=00d1b2&style=for-the-badge" />
 </p>
@@ -11,7 +11,7 @@
 ---
 
 ### 🧬 About Me
-Architecting Automated Learning Ecosystems. I build self-evolving repositories where AI mentors teach SDE fundamentals through daily automated CI/CD pipelines. My focus is on scaling LLM Agents and bridging the gap between raw data and actionable intelligence.
+Architecting Automated Learning Ecosystems. I build self-evolving repositories where AI mentors teach SDE fundamentals through daily automated CI/CD pipelines. My focus is on scaling LLM Agents, RAG systems, and high-performance Python automation.
 
 ---
 
@@ -38,24 +38,20 @@ Architecting Automated Learning Ecosystems. I build self-evolving repositories w
 ---
 
 ### 🏗️ Active Learning Labs (CI/CD Automated)
-*These labs evolve daily via scheduled GitHub Actions.*
+*These repositories are engineered to update 3-4 times daily with new logic and projects.*
 
-| Project | Core Focus | Daily Status | Live Interface |
+| Project | Core Focus | Repository | Live Interface |
 | :--- | :--- | :--- | :--- |
-| [AI Academy](./AI_Lab) | LLMs, RAG & Agents | ![Build](https://img.shields.io/badge/Automation-Active-success) | [🚀 Open Lab](https://ganesha-ai-lab.streamlit.app/) |
-| [DSA University](./Python_DSA_Lab) | SDE-2 Logic & Algorithms | ![Build](https://img.shields.io/badge/Mentorship-Active-blue) | [🐍 Open Lab](https://ganesha-dsa-lab.streamlit.app/) |
+| AI Academy | LLMs, RAG & Agents | [📁 View Repo](https://github.com/Ganesha369/python_lab) | [🚀 Open Lab](https://pythonlab-9anxreu6oyys7qfnfue7pu.streamlit.app/) |
+| DSA University | SDE-2 Logic & Algorithms | [📁 View Repo](https://github.com/Ganesha369/Python_DSA_Lab) | [🐍 Open Lab](https://ganesha-dsa-lab.streamlit.app/) |
 
 ---
 
-### 📊 Performance Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesha369&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha369&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesha369&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
+### 🌟 Project Spotlights
+I am currently focused on building Scalable AI Agents that handle complex reasoning tasks. My recent work involves:
+* 🔹 Automated Curriculum Generation: Systems that self-update via GitHub Actions.
+* 🔹 RAG Architectures: Optimizing context retrieval for LLM-based applications.
+* 🔹 Algorithm Visualization: Interactive Streamlit hubs for learning complex DSA.
 
 ---
 
