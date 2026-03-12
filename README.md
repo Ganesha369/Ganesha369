@@ -42,7 +42,7 @@ Architecting Automated Learning Ecosystems. I build self-evolving repositories w
 
 | Project | Core Focus | Repository | Live Interface |
 | :--- | :--- | :--- | :--- |
-| AI Academy | LLMs, RAG & Agents | [📁 View Repo](https://github.com/Ganesha369/python_lab) | [🚀 Open Lab](https://pythonlab-9anxreu6oyys7qfnfue7pu.streamlit.app/) |
+| AI Academy | LLMs, RAG & Agents | [📁 View Repo](https://github.com/Ganesha369/AI_Lab) | [🚀 Open Lab](https://pythonlab-9anxreu6oyys7qfnfue7pu.streamlit.app/) |
 | DSA University | SDE-2 Logic & Algorithms | [📁 View Repo](https://github.com/Ganesha369/python_lab) | [🐍 Open Lab](https://ganesha-dsa-lab.streamlit.app/) |
 
 ---
