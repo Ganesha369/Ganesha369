@@ -15,7 +15,7 @@ Architecting Automated Learning Ecosystems. I build self-evolving repositories w
 
 ---
 
-### 🛠️ The Professional AI & Automation Stack
+### 🛠️ The AI & Automation Stack
 
 #### 🤖 AI, LLMs & Agents
 <p align="left">
