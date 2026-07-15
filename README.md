@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1b2,100:0072ff&height=220&section=header&text=Ganesha%20A%20M&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Ganesha%20A%20M&fontSize=70&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -10,51 +10,58 @@
 
 ---
 
-### 🧬 About Me
-Architecting Automated Learning Ecosystems. I build self-evolving repositories where AI mentors teach SDE fundamentals through daily automated CI/CD pipelines. My focus is on scaling LLM Agents, RAG systems, and high-performance Python automation.
+### 🧬 The "Ship-First" Engineer
+I build end-to-end AI products—systems that get deployed, used, and validated by real people. My focus is on **Agentic AI, RAG architectures, and Multi-Agent Orchestration**. From co-building `notYC` (validated by YC CEO Garry Tan) to fine-tuning SLMs, my code is engineered for production.
+
+> *"Ship it. Get feedback. Make it better."*
 
 ---
 
-### 🛠️ The AI & Automation Stack
-
-#### 🤖 AI, LLMs & Agents
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+### 🏗️ Tech Ecosystem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgresql,redis,docker,aws,github,linux,huggingface,supabase,vscode" />
 </p>
 
-#### ⚙️ Automation & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+| Category | Specialized Toolkit |
+| :--- | :--- |
+| **AI Orchestration** | `LangGraph` · `LangChain` · `LlamaIndex` · `FastMCP` · `DeepAgents SDK` |
+| **LLM & Fine-Tuning** | `Unsloth` · `QLoRA` · `Gemini 2.0` · `Llama 3.2` · `Hugging Face` |
+| **Data & Vector DB** | `ChromaDB` · `Pinecone` · `PostgreSQL` · `BM25 Hybrid Search` |
+| **Infrastructure** | `Render` · `Railway` · `Streamlit` · `GitHub Actions` (CI/CD) |
 
 ---
 
-### 🏗️ Active Learning Labs (CI/CD Automated)
-*These repositories are engineered to update 3-4 times daily with new logic and projects.*
+### 🚀 Flagship Productions
+| Project | Core Tech | Impact |
+| :--- | :--- | :--- |
+| **notYC** | RAG Pipeline, Custom Embeddings | YC Feedback by Garry Tan |
+| **Security SLM** | Llama 3.2, Unsloth, QLoRA | Self-Correction Audit Loop |
+| **Sovereign Agent** | System 1/2 Routing, Playwright | Autonomous Web Research |
+| **Ledger AI** | LangGraph, PII Guardrails | Multi-Agent Finance Logic |
+| **HCP-CRM** | Multi-Agent Orchestration | Hospital Workflow Automation |
 
-| Project | Core Focus | Repository | Live Interface |
+---
+
+### 🏆 Hackathons & Recognition
+*   **Meta AI India Hackathon (Phase 2 Finalist):** Built an RL-based `Credit Card Optimizer` simulation.
+*   **Aptos Blockchain Hackathon (Recognition Award):** Shipped an AI-guided crypto wallet across 10+ blockchains in 48 hours.
+
+---
+
+### 🤖 Active Learning Labs (CI/CD Automated)
+*Self-updating R&D hubs that evolve with the industry.*
+
+| Lab | Focus | Repository | Live Interface |
 | :--- | :--- | :--- | :--- |
-| AI Academy | LLMs, RAG & Agents | [📁 View Repo](https://github.com/Ganesha369/AI_Lab) | [🚀 Open Lab](https://pythonlab-9anxreu6oyys7qfnfue7pu.streamlit.app/) |
-| DSA University | SDE-2 Logic & Algorithms | [📁 View Repo](https://github.com/Ganesha369/python_lab) | [🐍 Open Lab](https://ganesha-dsa-lab.streamlit.app/) |
-
----
-
-### 🌟 Project Spotlights
-I am currently focused on building Scalable AI Agents that handle complex reasoning tasks. My recent work involves:
-* 🔹 Automated Curriculum Generation: Systems that self-update via GitHub Actions.
-* 🔹 RAG Architectures: Optimizing context retrieval for LLM-based applications.
-* 🔹 Algorithm Visualization: Interactive Streamlit hubs for learning complex DSA.
+| **AI Academy** | Agentic AI & RAG | [📁 Repo](https://github.com/Ganesha369/AI_Lab) | [🚀 Open](https://pythonlab-9anxreu6oyys7qfnfue7pu.streamlit.app/) |
+| **DSA University** | SDE-2 Algorithms | [🐍 Repo](https://github.com/Ganesha369/python_lab) | [⚙️ Open](https://ganesha-dsa-lab.streamlit.app/) |
 
 ---
 
 <p align="center">
-  <i>"Code is not just written; it's engineered to evolve."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesha369&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha369&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+<p align="center"><i>"Code is not just written; it's engineered to evolve."</i></p>
